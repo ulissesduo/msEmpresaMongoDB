@@ -1,0 +1,6 @@
+@msEmpresaMongoDB_HostAddress = http://localhost:5238
+
+GET {{msEmpresaMongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
