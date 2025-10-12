@@ -17,6 +17,6 @@ jobs:
       - name: Checkout do código
         uses: actions/checkout@v2
       - name: Execução do teste de unidade empresaservice
-        run: dotnet test ./EmpresaServiceTests/EmpresaSersviceTests.csproj --no-build --verbosity normal
+        run: dotnet test ./EmpresaServiceTests/EmpresaServiceTests.csproj --no-build --verbosity normal
       - name: Publish API testes funcionass
         run: dotnet publish ./msEmpresaMongoDB/msEmpresaMongoDB.csproj -c Release -o ./publish
