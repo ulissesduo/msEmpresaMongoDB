@@ -40,3 +40,10 @@ C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\obj\Debug\net8.0
 C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\obj\Debug\net8.0\msEmpresaMongoDB.pdb
 C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\obj\Debug\net8.0\msEmpresaMongoDB.genruntimeconfig.cache
 C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\obj\Debug\net8.0\ref\msEmpresaMongoDB.dll
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\obj\Debug\net8.0\msEmpresaMongoDB.sourcelink.json
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\bin\Debug\net8.0\Moq.dll
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Ulisses\source\repos\msEmpresaMongoDB\msEmpresaMongoDB\bin\Debug\net8.0\xunit.execution.dotnet.dll

@@ -17,7 +17,7 @@ namespace msEmpresaMongoDB.Service
             if (empresa == null) 
                 throw new ArgumentNullException(nameof(empresa), "Empresa não pode ser nula.");
 
-            if (string.IsNullOrWhiteSpace(empresa.NomeEmpresa))
+            if (string.IsNullOrWhiteSpace(empresa.Nome))
                 throw new ArgumentException("Nome da empresa é obrigatório.", nameof(empresa));
 
             return _repository.criarEmpresa(empresa);

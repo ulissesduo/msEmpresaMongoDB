@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\.github\\workflows\\script.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\script.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC1A864-C53B-4759-B957-063EC8290A4A}|EmpresaServiceTests\\EmpresaServiceTests.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\empresaservicetests\\empresaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC1A864-C53B-4759-B957-063EC8290A4A}|EmpresaServiceTests\\EmpresaServiceTests.csproj|solutionrelative:empresaservicetests\\empresaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\service\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\service\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\entity\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\entity\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\entity\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\entity\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\dto\\empresaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\dto\\empresaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\dto\\empresarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\dto\\empresarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\mapper\\empresaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\mapper\\empresaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\msempresamongodb\\msempresamongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DCD7FB-CFB6-4B85-8175-B628A2D7E822}|msEmpresaMongoDB\\msEmpresaMongoDB.csproj|solutionrelative:msempresamongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpresaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Repository\\EmpresaRepository.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Repository\\EmpresaRepository.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Repository\\EmpresaRepository.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Repository\\EmpresaRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:15:26.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmpresaRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\DTO\\EmpresaRequestDTO.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\DTO\\EmpresaRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\DTO\\EmpresaRequestDTO.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\DTO\\EmpresaRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:12:10.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpresaController.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Controllers\\EmpresaController.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Controllers\\EmpresaController.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Controllers\\EmpresaController.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Controllers\\EmpresaController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwA4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:50:21.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Entity\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Entity\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Entity\\MongoDbSettings.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Entity\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:12:22.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmpresaService.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Service\\EmpresaService.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Service\\EmpresaService.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Service\\EmpresaService.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Service\\EmpresaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:15:23.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "script.yml",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\.github\\workflows\\script.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\script.yml",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\.github\\workflows\\script.yml",
+              "RelativeToolTip": ".github\\workflows\\script.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-12T00:51:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\appsettings.json",
               "RelativeDocumentMoniker": "msEmpresaMongoDB\\appsettings.json",
               "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\appsettings.json",
               "RelativeToolTip": "msEmpresaMongoDB\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-22T23:53:56.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T00:45:50.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmpresaResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\DTO\\EmpresaResponseDTO.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\DTO\\EmpresaResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\DTO\\EmpresaResponseDTO.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\DTO\\EmpresaResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EmpresaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\EmpresaServiceTests\\EmpresaServiceTests.cs",
+              "RelativeDocumentMoniker": "EmpresaServiceTests\\EmpresaServiceTests.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\EmpresaServiceTests\\EmpresaServiceTests.cs",
+              "RelativeToolTip": "EmpresaServiceTests\\EmpresaServiceTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwFMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:12:12.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Entity\\Empresa.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Entity\\Empresa.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Entity\\Empresa.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Entity\\Empresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:12:15.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmpresaProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Mapper\\EmpresaProfile.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Mapper\\EmpresaProfile.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Mapper\\EmpresaProfile.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Mapper\\EmpresaProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T02:12:23.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Program.cs",
-              "RelativeDocumentMoniker": "msEmpresaMongoDB\\Program.cs",
-              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\msEmpresaMongoDB\\Program.cs",
-              "RelativeToolTip": "msEmpresaMongoDB\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T22:48:49.406Z",
+              "WhenOpened": "2025-10-11T22:15:18.576Z",
               "EditorCaption": ""
             }
           ]

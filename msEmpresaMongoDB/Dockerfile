@@ -12,10 +12,11 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["msEmpresaMongoDB/msEmpresaMongoDB.csproj", "msEmpresaMongoDB/"]
+COPY ["msEmpresaMongoDB.csproj", "msEmpresaMongoDB/"]
 RUN dotnet restore "./msEmpresaMongoDB/msEmpresaMongoDB.csproj"
-COPY . .
 WORKDIR "/src/msEmpresaMongoDB"
+COPY . .
+
 RUN dotnet build "./msEmpresaMongoDB.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # Esta fase é usada para publicar o projeto de serviço a ser copiado para a fase final

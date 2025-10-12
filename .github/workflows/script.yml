@@ -1,0 +1,22 @@
+# dotnet test .\AlertaMongoDBTest
+# dotnet run --project .\msAlertaMongoDB
+
+name: Pipeline
+on:
+ push:
+  branches: ["main"]
+jobs:
+  build:
+   name: Minha primeira pipeline test 
+   runs-on: ubuntu-latest
+   steps:     
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: 8.0.x
+      - name: Checkout do código
+        uses: actions/checkout@v2
+      - name: Execução do teste de unidade 
+        run: dotnet test ./AlertaMongoDBTest/EmpresaaServiceTests.csproj --no-build --verbosity normal
+      - name: Publish API testes funcionass
+        run: dotnet publish ./msEmpresaMongoDB/msEmpresaMongoDB.csproj -c Release -o ./publish
