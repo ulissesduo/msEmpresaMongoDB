@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +36,10 @@
               "RelativeDocumentMoniker": ".github\\workflows\\script.yml",
               "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\msEmpresaMongoDB\\.github\\workflows\\script.yml",
               "RelativeToolTip": ".github\\workflows\\script.yml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-10-12T00:51:03.15Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "EmpresaServiceTests\\EmpresaServiceTests.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAIwFMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T22:15:18.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T22:15:18.576Z"
             }
           ]
         }

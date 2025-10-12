@@ -16,7 +16,7 @@ jobs:
           dotnet-version: 8.0.x
       - name: Checkout do código
         uses: actions/checkout@v2
-      - name: Execução do teste de unidade 
-        run: dotnet test ./AlertaMongoDBTest/EmpresaaServiceTests.csproj --no-build --verbosity normal
+      - name: Execução do teste de unidade empresaservice
+        run: dotnet test ./EmpresaaServiceTests/EmpresaaServiceTests.csproj --no-build --verbosity normal
       - name: Publish API testes funcionass
         run: dotnet publish ./msEmpresaMongoDB/msEmpresaMongoDB.csproj -c Release -o ./publish
